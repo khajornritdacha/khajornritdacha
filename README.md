@@ -1,5 +1,5 @@
 - 😄Hi, I'm Vijak Khajornritdacha (JO)
-- 🌱I'm currently studying at Department of Computer Engineering, Chulalongkorn Univeristy
+- 🌱I'm currently studying Computer Engineering at Chulalongkorn Univeristy (Grad 2026)
 
 ## Github Stats
 
