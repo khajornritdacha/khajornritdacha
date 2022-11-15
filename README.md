@@ -1,4 +1,9 @@
-### Hi there 👋
+- 😄Hi, I'm Vijak Khajornritdacha (JO)
+- 🌱I'm currently studying at Department of Computer Engineering, Chulalongkorn Univeristy
+
+## Github Stats
+
+![Joo's GitHub stats](https://github-readme-stats.vercel.app/api/?username=khajornritdacha&hide=stars&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **khajornritdacha/khajornritdacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
